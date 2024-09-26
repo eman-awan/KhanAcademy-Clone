@@ -8,7 +8,7 @@
 
 html{
     scroll-behavior: smooth;
-    background-color: #F7F8FA;
+    background-color: white;
 }
 
 .left select{
@@ -34,14 +34,14 @@ html{
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    background-color: #0B2149;
+    background-color: blue;
     padding: 30px 10%;
     font-size: 16px;
     top:0;
 }
 
 /* .header :hover, .left :hover, .center :hover, .right :hover{
-    background-color: #F7F8FA;
+    background-color:black;
     color: #1865F2;
 } */
 
@@ -142,7 +142,7 @@ li{
 } */
 
 .below-header{
-    background-color: #0B2149;
+    background-color: blue;
     margin-top: 0.4px;
     color: white;
     padding: 60px;
